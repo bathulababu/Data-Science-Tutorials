@@ -33,7 +33,7 @@ INSERT INTO dannysdinner.menu
 	(product_id, product_name, price)
 VALUES
 	(1, 'rice', 10),
-    (2, 'cuury', 15),
+    (2, 'curry', 15),
     (3, 'curd', 12);
     
 CREATE TABLE dannysdinner.members (
